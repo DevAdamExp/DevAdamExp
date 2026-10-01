@@ -16,6 +16,9 @@ I build web and mobile products end to end, and lately the AI agents inside them
 **[Jarvis](https://github.com/DevAdamExp/Jarvis)** &nbsp;<sub>`open source`</sub><br>
 An always-listening voice assistant for the Mac, with a SwiftUI dashboard to watch it think. Local transcription, an offline fallback, and memory it only recalls when the conversation needs it.
 
+**[LeadGen](https://github.com/DevAdamExp/Lead-Generation)** &nbsp;<sub>`open source`</sub><br>
+Type a niche and a place, and it searches Google Maps and the big directories, verifies each business and hands back a scored lead list as Excel and PDF.
+
 **Visa CRM** &nbsp;<sub>`private` · [case study](https://adam-dev-ai-architect.vercel.app/projects/visa-crm)</sub><br>
 A multi-tenant CRM where AI reads the CV, per-country rules make the eligibility call, and a person signs off every yes.
 
