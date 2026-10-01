@@ -30,7 +30,7 @@ A service-booking marketplace where slots are held inside database transactions,
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,py,fastapi,postgres,redis,docker,gcp&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Cpy%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cgcp&theme=dark">
   <img alt="TypeScript, Next.js, React, Python, FastAPI, PostgreSQL, Redis, Docker, Google Cloud" src="https://skillicons.dev/icons?i=ts,nextjs,react,py,fastapi,postgres,redis,docker,gcp&theme=light">
 </picture>
 
